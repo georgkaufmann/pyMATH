@@ -1,0 +1,25 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<table>
+<tr><td><img style="height: 150px;" src="images/geo_hydro1.jpg"></td>
+<td bgcolor="#CDCDCD" style="width:600px">
+<h1>pyMATH</h1>
+<h2>MATH</h2>
+<h2>Georg Kaufmann</h2>
+</td>
+</tr>
+</table>
+
+----
+
+# Geodynamical models
+
+This repository is part of a series of repositories on 
+numerical modelling in geosciences, see my
+[github page](https://github.com/georgkaufmann).
+
+----
+
+# **pyMATH**
+
+A list of notebooks used as recap for simple mathematical functions
+and analysis.
